@@ -1,0 +1,1 @@
+export const IS_AFFILIATE = process.env.NEXT_PUBLIC_AFFILIATE ? true : false;
